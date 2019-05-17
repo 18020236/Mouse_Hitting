@@ -1,0 +1,14 @@
+hammer:
+540*700
+scale 0.2
+background:
+1005*525
+mouse:
+631*640
+scale 0.1
+Phomat:
+650*525
+
+animation:
+hammer
+3570*225
